@@ -3,29 +3,29 @@
 <h1 align="center">Hi 👋, I'm CodeCrest_Studio</h1>
 <h3 align="center">🚀 Building Modern Web Experiences, SaaS Products & AI-Powered Solutions</h3>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🔭 Profile summary</h3>
-- 🔭 I'm currently working on **CodeCrestStudio — Custom Web Apps, SaaS Platforms, AI Automation & Business Solutions**<br/>
-- 🌱 I'm currently learning **AI Agents, Advanced Next.js, Three.js, Cloud Architecture & Performance Optimization**<br/>
-- 👯 I'm looking to collaborate on **Startup Products, SaaS Platforms, E-commerce, AI Tools & Open Source Projects**<br/>
-- 🤝 I'm looking for help with **Enterprise Partnerships, Global Clients & Strategic Collaborations**<br/>
-- 💬 Ask me about **Web Development, UI/UX Design, React, Next.js, AI Integrations, SaaS Development, SEO**<br/>
-- 📫 How to reach me **codecreststudio@gmail.com**<br/>
-- 👨‍💻 All of my projects are available at [https://codecreststudio.vercel.app/](https://codecreststudio.vercel.app/)<br/>
-- ⚡ Fun fact **⚡ We turn ideas into scalable digital products faster than most agencies can write a proposal.**<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecreststudio-code&theme=radical" alt="codecreststudio-code" /></a> </p>
+
+- 🔭 I'm currently working on **CodeCrestStudio — Custom Web Apps, SaaS Platforms, AI Automation & Business Solutions**
+- 🌱 I'm currently learning **AI Agents, Advanced Next.js, Three.js, Cloud Architecture & Performance Optimization**
+- 👯 I'm looking to collaborate on **Startup Products, SaaS Platforms, E-commerce, AI Tools & Open Source Projects**
+- 🤝 I'm looking for help with **Enterprise Partnerships, Global Clients & Strategic Collaborations**
+- 💬 Ask me about **Web Development, UI/UX Design, React, Next.js, AI Integrations, SaaS Development, SEO**
+- 📫 How to reach me **codecreststudio@gmail.com**
+- 👨‍💻 All of my projects are available at [https://codecreststudio.vercel.app/](https://codecreststudio.vercel.app/)
+- ⚡ Fun fact **⚡ We turn ideas into scalable digital products faster than most agencies can write a proposal.**
 - 😄 Pronouns: **We/Us**
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h3>📊 Contributions & stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=codecreststudio-code&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>💻 Languages and Tools</h3>
-      <p align="left">
+
+<p align="center"><img src="http://localhost:3000/api/quote" alt="Quote" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/codecreststudio-code" target="_blank"><img src="https://img.shields.io/badge/GitHub-ff0055?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://instagram.com/https://www.instagram.com/codecrest__studio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff0055?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://youtube.com/c/https://www.youtube.com/@CodeCrest_Studio" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff0055?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 <img src="https://img.shields.io/badge/JavaScript-ff0055.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-ff0055.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Python-ff0055.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -56,35 +56,15 @@
 <img src="https://img.shields.io/badge/Firebase-ff0055.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Supabase-ff0055.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🏆 Achievements & streaks</h3>
-      <p align="left">
-        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecreststudio-code&theme=radical" alt="Trophies" /></a><br/><br/>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=codecreststudio-code&theme=radical&hide_border=false" alt="Streak Stats" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Connect with me</h3>
-      <p align="left">
-<a href="https://github.com/codecreststudio-code" target="_blank"><img src="https://img.shields.io/badge/GitHub-ff0055?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://instagram.com/https://www.instagram.com/codecrest__studio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff0055?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://youtube.com/c/https://www.youtube.com/@CodeCrest_Studio" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff0055?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-</p>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
-</table>
 
-<h3 align="left">📈 Weekly Contribution Graph:</h3>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecreststudio-code&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecreststudio-code&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/>
+<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=codecreststudio-code&theme=radical&hide_border=false" alt="GitHub Streak" /><br/>
+</p>
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codecreststudio-code&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center"><img src="http://localhost:3000/api/quote" alt="Quote" /></p>
-
-<h3 align="left">😄 Random Dev Meme:</h3>
+<h3 align="left">Random Dev Meme:</h3>
 <img src="http://localhost:3000/api/meme" style="height: 400px;" alt="Random meme"/>
